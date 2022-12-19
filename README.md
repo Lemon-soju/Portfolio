@@ -1,10 +1,8 @@
-### 안녕하세요 신입 개발자 윤창규입니다.   
+#### 안녕하세요 신입 개발자 윤창규입니다. 
 <img src="https://user-images.githubusercontent.com/41615081/208347952-77a96970-c62d-4455-bffd-cf5d68f2c650.jpg"  width="150" height="200"/>
 
 # Contact.
-Email. yckk980320@naver.com
-
-# Channel.
+Email. yckk980320@naver.com   
 Blog. https://lemon-soju.tistory.com/  
 GitHub. https://github.com/Lemon-soju
 
@@ -26,13 +24,14 @@ GitHub. https://github.com/Lemon-soju
 * **침해 대응 및 분석** : 통합로그서버 스플렁크를 이용한 분석과 대응방안 모색
 
 # Skill.
-**Front-End**: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+> **Front-End** :  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 
-> Back-End: <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+> **Back-End** :  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 
-Database: <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+> **Database** :  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 
 
 
 # Education.
-고려대학교 컴퓨터학과 4학년 휴학 중
+고려대학교 **컴퓨터학과**, 정보보호융합전공 복수전공   
+4학년 휴학 중
