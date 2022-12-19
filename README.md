@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/41615081/208347952-77a96970-c62d-4455-bffd-cf5d68f2c650.jpg"  width="150" height="200"/>
 
 # Contact.
-Email. yckk980320@naver.com   
-Blog. https://lemon-soju.tistory.com/  
-GitHub. https://github.com/Lemon-soju
+- Email. yckk980320@naver.com   
+- Blog. https://lemon-soju.tistory.com/  
+- GitHub. https://github.com/Lemon-soju
 
 
 # Introduction.
