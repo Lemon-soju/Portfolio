@@ -41,6 +41,13 @@ KWEB 동아리 정회원 승급 과제로 수강신청 사이트를 구현하는
 
 <hr/>
 
+### [개인 블로그 제작 프로젝트](https://github.com/Lemon-soju/Vue_Spring_blog)
+
+자바 스프링과 Vue3.js를 이용하여 개인 블로그를 만들어 보았습니다.    
+스프링을 이용하여 백엔드 부분을 작성하고 Spring REST Docs를 이용하여 API를 문서화 한뒤 프론트엔드 부분을 작성하였습니다.   
+추가로 이력서를 블로그 페이지에 작성하면서 scss를 통해 가독성을 고려하여 꾸며보았습니다.
+
+<hr/>
 
 # Skill.
 > **Front-End** :  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
